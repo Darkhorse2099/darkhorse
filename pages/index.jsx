@@ -6,7 +6,11 @@ import ClientReviews from "../components/HomeComponents/ClientReviews/ClientRevi
 const home = () => {
   return (
     <div className="Home-Page -z-10">
-    home
+      <Banner />
+      <MyExpertise />
+      <Recommendations />
+      <ClientReviews />
+      <Footer />
     </div>
   );
 };
