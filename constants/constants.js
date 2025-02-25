@@ -1,26 +1,19 @@
-export const NAME = 'Dark horse';
+export const NAME = 'Jordan Smith';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'United States',
-  City: 'Log Angels',
+  Residence: 'France',
+  City: 'Marceille',
   Age: '30',
 };
 
-export const SKILLS = [
-  {
-    title: 'MERN Stack Developer',
-    level: '90%',
-  },
+export const SKILLS = [ 
   {
     title: 'React Developer',
     level: '91%',
   },
-  {
-    title: 'Next Developer',
-    level: '99%',
-  },
+ 
   {
     title: 'Backend Developer',
     level: '90%',
@@ -30,8 +23,12 @@ export const SKILLS = [
     level: '75%',
   },
   {
-    title: 'Technical Blogger',
+    title: 'Block Chain Developer',
     level: '83%',
+  },
+  {
+    title: 'Next Developer',
+    level: '99%',
   },
 ];
 
@@ -59,11 +56,15 @@ export const TECH_STACK = [
   'Adobe XD',
   'Unity',
   'C#',
-  'OpenAI'
+  'OpenAI',
+  'Solidity',
+  'DeFi',
+  'Dapp',
+  'NFT',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'darkhorse950113@gmail.com',
+  EMAIL: 'dave.minex@gmail.com',
   //PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
