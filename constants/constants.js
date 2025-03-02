@@ -1,4 +1,4 @@
-export const NAME = 'Jordan Smith';
+export const NAME = 'Pierre.F';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
