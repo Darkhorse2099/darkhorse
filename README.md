@@ -22,8 +22,6 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
